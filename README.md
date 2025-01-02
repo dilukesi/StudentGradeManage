@@ -5,7 +5,7 @@
 
 项目运行步骤：
 1、配置好数据库，导入lab4.sql(位于sql文件夹下)
-2、运行SpringbootApplication.java
+2、运行SpringbootApplication.java(使用mvn命令)
 3、在终端运行npm install
 4、运行npm run dev
 学生端：
