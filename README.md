@@ -27,11 +27,11 @@
 
 2.可以对学生进行打分以及评语操作
 
-![][(https://github.com/dilukesi/StudentgradeManage/blob/main/display/score.png)
+![](https://github.com/dilukesi/StudentgradeManage/blob/main/display/score.png)
 
 3.可以查看所有学生信息以及输入成绩。
 
-![][(https://github.com/dilukesi/StudentgradeManage/blob/main/display/enter.png)
+![](https://github.com/dilukesi/StudentgradeManage/blob/main/display/enter.png)
 
 管理员端：
 
