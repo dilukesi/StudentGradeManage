@@ -1,14 +1,13 @@
 # 学生成绩管理系统
+本项目使用Springboot+vue3实现功能，运用mybatis以及element-plus中的UI组件。
+学生成绩管理系统：
+本系统分为学生端、教师端及管理员端，登录页面选择身份进入系统。
 
-#### 介绍
 项目运行步骤：
 1、配置好数据库，导入lab4.sql(位于sql文件夹下)
 2、运行SpringbootApplication.java
 3、在终端运行npm install
 4、运行npm run dev
-本项目使用Springboot+vue3实现功能，运用mybatis以及element-plus中的UI组件。
-学生成绩管理系统：
-本系统分为学生端、教师端及管理员端，登录页面选择身份进入系统
 学生端：
 1.学生端可以进行选课功能，并且可以对已选科目进行查询操作。
 
